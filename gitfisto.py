@@ -7,12 +7,6 @@ import sys
 import tempfile
 import subprocess
 
-def smezza(a_list):
-    half = len(a_list)/2
-    return a_list[:half], a_list[half:]
-
-
-
 FISTINO ='''<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
