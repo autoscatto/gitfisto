@@ -1,0 +1,4 @@
+gitfisto
+========
+
+Git repository fisting
